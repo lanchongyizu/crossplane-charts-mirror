@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  crossplane:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: 2018-12-11T19:27:24.186829227-08:00
+    description: Crossplane - Managed Cloud Resources Operator
+    digest: f4b8221ba53872c4a8f547dbde9f6827385236a38c068c12264cdd35a7a3d710
+    name: crossplane
+    urls:
+    - https://lanchongyizu.github.com/crossplane-charts-mirror/crossplane-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    appVersion: 0.0.0-269.33c9306
+    created: 2018-12-11T19:27:24.186294585-08:00
+    description: Crossplane - Managed Cloud Resources Operator
+    digest: 5f6f43f97a11cd0631f2fdfd8861326edb696eb4cd6a9ef8d83901a59abf3219
+    name: crossplane
+    urls:
+    - https://lanchongyizu.github.com/crossplane-charts-mirror/crossplane-0.0.0-269.33c9306.tgz
+    version: 0.0.0-269.33c9306
+generated: 2018-12-11T19:27:24.185500014-08:00
